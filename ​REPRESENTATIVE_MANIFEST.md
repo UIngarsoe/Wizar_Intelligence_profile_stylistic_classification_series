@@ -90,13 +90,6 @@ This asset belongs to the Wizar_Intelligence_profile_stylistic_classification_se
  * Active Documentation State (Commit dadebd1d)
 ***
 
-### 📝 Recommended Final Git Commands for Deployment
-Run these commands inside Termux to complete your update:
-```bash
-git add README.md
-git commit -m "docs(repo): finalize unified readme layout with system metadata and hashes"
-git push origin master
-
 U Ingar Soe SSISM Sentinel
 Bamar Enlightenment Journal Executive Editor
 OSINT Myanmar/Burma Civil Enlightenment Nodes
